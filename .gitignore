@@ -2,3 +2,5 @@
 v1.00/production
 *.lck
 *.json
+v1.00/#auto_saved_files#
+*autosave*
