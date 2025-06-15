@@ -1,1 +1,1 @@
-# Lotus-58-Wireless
+# Lotus-58-BLE
